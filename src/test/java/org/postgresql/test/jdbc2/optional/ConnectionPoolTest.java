@@ -9,7 +9,7 @@ package org.postgresql.test.jdbc2.optional;
 
 import org.postgresql.jdbc2.optional.ConnectionPool;
 import org.postgresql.ds.PGConnectionPoolDataSource;
-import org.postgresql.test.TestUtil;
+
 import javax.sql.*;
 import java.sql.*;
 import java.util.*;

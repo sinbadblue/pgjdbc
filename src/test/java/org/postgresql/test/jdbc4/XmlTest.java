@@ -15,8 +15,6 @@ import org.postgresql.test.TestUtil;
 
 import java.io.StringReader;
 import java.io.StringWriter;
-import java.io.Reader;
-import java.io.InputStream;
 import java.io.IOException;
 
 import javax.xml.transform.Source;

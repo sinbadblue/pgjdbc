@@ -12,9 +12,7 @@ import java.util.Arrays;
 
 import junit.framework.TestCase;
 
-import java.io.InputStream;
 import java.io.ByteArrayInputStream;
-import java.io.Reader;
 import java.io.StringReader;
 import java.io.UnsupportedEncodingException;
 import java.util.TimeZone;

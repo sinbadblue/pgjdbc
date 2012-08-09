@@ -18,10 +18,10 @@
 <project name="postgresqlJDBC" default="all" basedir=".">
 
   <!-- set global properties for this build -->
-  <property name="srcdir"  value="." />
-  <property name="jardir"  value="jars" />
-  <property name="builddir" value="build" />
-  <property name="package" value="org/postgresql" />
+  <property name="srcdir"  value="./src/main/java" />
+  <property name="jardir"  value="./target" />
+  <property name="builddir" value="./target" />
+  <property name="package" value="./src/main/java/org/postgresql" />
   <property name="debug" value="on" />
 
   <!-- default build parameters are in build.properties, these may be
